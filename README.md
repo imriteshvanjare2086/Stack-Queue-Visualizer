@@ -1,19 +1,21 @@
-# Frontend Projects
+# Stack & Queue Visualizer
 
-This repository contains frontend projects created while learning
-HTML, CSS, and JavaScript.
+This project visually demonstrates the working of
+**Stack** and **Queue** data structures using JavaScript.
 
-The projects focus on building interactive user interfaces and
-understanding core frontend concepts.
+## Features
+- Push and Pop operations for Stack
+- Enqueue and Dequeue operations for Queue
+- Real-time visual updates
 
 ## Languages Used
 - HTML
 - CSS
 - JavaScript
 
-## Projects
-- Stack & Queue Visualizer
-- More projects will get Added
+## Purpose
+This project is created to understand data structures
+through visual representation.
 
 ## Author
 - Ritesh Vanjare
