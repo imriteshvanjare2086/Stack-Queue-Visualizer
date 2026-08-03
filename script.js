@@ -41,9 +41,8 @@ function renderStack() {
  
   stack.slice().reverse().forEach((item, index) => {
     const div = document.createElement("div");
-    div.textContent = item;
-    div.style.padding = "-5px -5px";
-    div.style.margin = "3px 20px";
+    div.textContent = item; 
+    div.style.margin = "2px 100px";
     div.style.background = (index === 0) ? "rgba(254, 143, 31, 1)" : "rgba(241, 255, 38, 1)"; 
     div.style.border = "1px solid black";
     div.style.borderRadius = "5px";
